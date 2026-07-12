@@ -5,7 +5,7 @@
     "url": "https://classic.goldtraders.or.th/DailyPrices.aspx"
   },
   "announcement": {
-    "date_th": "12/07/2569",
+    "date_th": "13/07/2569",
     "time": "09:00",
     "round": 1
   },
@@ -20,6 +20,6 @@
       "sell": 65800
     }
   },
-  "generated_at": "2026-07-12T22:50:54+07:00",
-  "generated_timestamp": 1783871454854
+  "generated_at": "2026-07-13T06:43:17+07:00",
+  "generated_timestamp": 1783899797605
 }
