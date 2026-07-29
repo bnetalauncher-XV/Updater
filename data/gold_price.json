@@ -11,15 +11,15 @@
   },
   "price": {
     "gold_bar_96_5": {
-      "buy": 64000,
-      "sell": 64200
+      "buy": 63950,
+      "sell": 64150
     },
     "gold_ornament_96_5": {
-      "tax_base": 62716.92,
-      "buy_per_gram": 4137,
-      "sell": 65000
+      "tax_base": 62671.44,
+      "buy_per_gram": 4134,
+      "sell": 64950
     }
   },
-  "generated_at": "2026-07-29T15:32:19+07:00",
-  "generated_timestamp": 1785313939319
+  "generated_at": "2026-07-29T15:47:36+07:00",
+  "generated_timestamp": 1785314856506
 }
