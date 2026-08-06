@@ -6,8 +6,8 @@
   },
   "announcement": {
     "date_th": "06/08/2569",
-    "time": "15:55",
-    "round": 30
+    "time": "16:02",
+    "round": 31
   },
   "price": {
     "gold_bar_96_5": {
@@ -20,6 +20,6 @@
       "sell": 67700
     }
   },
-  "generated_at": "2026-08-06T16:02:57+07:00",
-  "generated_timestamp": 1786006977564
+  "generated_at": "2026-08-06T16:18:12+07:00",
+  "generated_timestamp": 1786007892965
 }
