@@ -5,7 +5,7 @@
     "url": "https://classic.goldtraders.or.th/DailyPrices.aspx"
   },
   "announcement": {
-    "date_th": "08/08/2569",
+    "date_th": "09/08/2569",
     "time": "09:04",
     "round": 1
   },
@@ -16,10 +16,10 @@
     },
     "gold_ornament_96_5": {
       "tax_base": 66294.68,
-      "buy_per_gram": 4373,
+      "buy_per_gram": null,
       "sell": 68650
     }
   },
-  "generated_at": "2026-08-08T23:45:00+07:00",
-  "generated_timestamp": 1786207500810
+  "generated_at": "2026-08-09T00:03:59+07:00",
+  "generated_timestamp": 1786208639694
 }
