@@ -6,7 +6,7 @@
   },
   "announcement": {
     "date_th": "06/09/2569",
-    "time": "09:04",
+    "time": "09:30",
     "round": 1
   },
   "price": {
@@ -16,10 +16,10 @@
     },
     "gold_ornament_96_5": {
       "tax_base": 67568.12,
-      "buy_per_gram": null,
+      "buy_per_gram": 4457,
       "sell": 69950
     }
   },
-  "generated_at": "2026-09-06T09:21:09+07:00",
-  "generated_timestamp": 1788661269073
+  "generated_at": "2026-09-06T09:36:29+07:00",
+  "generated_timestamp": 1788662189373
 }
