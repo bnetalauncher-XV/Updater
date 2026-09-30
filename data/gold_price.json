@@ -6,20 +6,20 @@
   },
   "announcement": {
     "date_th": "30/09/2569",
-    "time": "09:53",
-    "round": 3
+    "time": "11:34",
+    "round": 4
   },
   "price": {
     "gold_bar_96_5": {
-      "buy": 66200,
-      "sell": 66400
+      "buy": 66250,
+      "sell": 66450
     },
     "gold_ornament_96_5": {
-      "tax_base": 64869.64,
-      "buy_per_gram": 4279,
-      "sell": 67200
+      "tax_base": 64930.28,
+      "buy_per_gram": 4283,
+      "sell": 67250
     }
   },
-  "generated_at": "2026-09-30T11:23:27+07:00",
-  "generated_timestamp": 1790742207573
+  "generated_at": "2026-09-30T11:38:36+07:00",
+  "generated_timestamp": 1790743116785
 }
