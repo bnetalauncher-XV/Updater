@@ -6,7 +6,7 @@
   },
   "announcement": {
     "date_th": "22/11/2569",
-    "time": "09:11",
+    "time": "09:09",
     "round": 1
   },
   "price": {
@@ -20,6 +20,6 @@
       "sell": 57950
     }
   },
-  "generated_at": "2026-11-22T09:11:31+07:00",
-  "generated_timestamp": 1795313491350
+  "generated_at": "2026-11-22T09:26:38+07:00",
+  "generated_timestamp": 1795314398883
 }
